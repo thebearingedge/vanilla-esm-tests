@@ -1,0 +1,18 @@
+{
+  "name": "vanilla-esm-tests",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "vitest run",
+    "cover": "vitest run --coverage",
+    "tdd": "vitest watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "c8": "^7.11.3",
+    "vite": "^2.9.12",
+    "vitest": "^0.16.0"
+  }
+}
